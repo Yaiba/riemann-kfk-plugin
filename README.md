@@ -1,14 +1,16 @@
 # riemann-kfk-plugin
 
-A Clojure library designed to ... well, that part is up to you.
+Another riemann plugin for kafka.
 
-## Usage
+## Why another?
 
-FIXME
+See [riemann-kafka](https://github.com/pyr/riemann-kafka).
+
+## Why?
+
+The exist one use [clj-kafka](https://github.com/pingles/clj-kafka), which only support kafka 0.8.
+This one is for kafka 0.10.
 
 ## License
 
-Copyright © 2017 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+MIT.
