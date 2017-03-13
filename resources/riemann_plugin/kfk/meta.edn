@@ -1,0 +1,4 @@
+{:plugin "kfk"
+ :title  "A plugin for producing events to kafka queues"
+ :git-repo "https://github.com/yaiba/riemann-kfk-plugin"
+ :require riemann.plugin.kfk}
